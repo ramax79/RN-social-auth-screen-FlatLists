@@ -1,3 +1,4 @@
-![Image](https://user-images.githubusercontent.com/62887315/130018432-255269a4-885c-4643-a501-dc68ca87d255.JPG)
+![image](https://user-images.githubusercontent.com/62887315/130019871-773cb316-b40f-43b9-9734-58801f88e7ce.gif)
+
 
 Вариант анимационного меню выбора авторизации через социальные сети. 
