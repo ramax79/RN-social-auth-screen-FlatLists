@@ -1,6 +1,3 @@
-/**
- * Inspiration: https://dribbble.com/shots/3431451-HUNGRY
- */
 import * as React from 'react';
 import {
   TouchableOpacity,
@@ -33,8 +30,7 @@ const Item = React.memo(({ icon, color, name, showText }) => {
     <View style={styles.itemWrapper}>
       {showText ? (
         <Text style={[styles.itemText, { color }]}>{name}</Text>
-      ) : (
-        // for spacing purposes
+      ) : (        
         <View />
       )}
       <Icon icon={icon} color={color} />
